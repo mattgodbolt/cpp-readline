@@ -3,7 +3,7 @@
 #    @author zmij
 #    @date Nov 30, 2015
 
-cmake_minimum_required(VERSION 2.6)
+cmake_minimum_required(VERSION 3.5)
 
 # Set library name here
 set(lib_name cpp-readline)
